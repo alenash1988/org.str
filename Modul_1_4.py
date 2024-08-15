@@ -1,0 +1,6 @@
+my_string = input('В каком городе ты живешь?:')
+print(my_string.upper())
+print(my_string.lower())
+print("В каком городе ты живешь?".replace(' ',''))
+print('В каком городе ты живешь?:'[0])
+print('В каком городе ты живешь?:'[-1])
